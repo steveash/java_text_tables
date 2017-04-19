@@ -10,7 +10,7 @@
 
   <groupId>com.github.steveash.itxttbl</groupId>
   <artifactId>inamik-text-tables</artifactId>
-  <version>0.1</version>
+  <version>0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
   <description>Text Table Library in Java</description>
   <inceptionYear>2016</inceptionYear>
