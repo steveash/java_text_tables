@@ -2,6 +2,16 @@
 
 **Text Table Library in Java**
 
+This is a fork of [java_text_tables](https://github.com/iNamik/java_text_tables) specifically to release a version to maven central; once David releases a version 
+then I will retire this and switch my projects to use his official dependency. In the meantime, sorry, 
+but I have to have a Maven Central resolveable dependency. Current coordinates:
+
+```xml
+<groupId>com.github.steveash.itxttbl</groupId>
+<artifactId>inamik-text-tables</artifactId>
+<version>0.1</version>
+```
+
 ## About
 
 The `Java Text Tables` library is the next generation of my original [Java Text Table Formatter](https://github.com/iNamik/Java-Text-Table-Formatter) project.
