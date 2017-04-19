@@ -2,6 +2,7 @@
 # Created with help from www.gitignore.io
 #
 
+.idea
 
 #######################################################################
 # Intellij
